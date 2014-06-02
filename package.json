@@ -27,7 +27,7 @@
   ],
   "license": "BSD",
   "dependencies": {
-    "conventional-changelog": "0.0.6"
+    "conventional-changelog": "git+ssh://git@github.com/widgetworks/conventional-changelog.git#v0.0.11-wiwo.1"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
