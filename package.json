@@ -1,5 +1,5 @@
 {
-  "name": "grunt-conventional-changelog",
+  "name": "@wiwo/grunt-conventional-changelog",
   "version": "1.1.0-wiwo.1",
   "description": "Generate a markdown changelog from git commit data",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "bugs": "https://github.com/btford/grunt-conventional-changelog/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/btford/grunt-conventional-changelog.git"
+    "url": "https://github.com/widgetworks/grunt-conventional-changelog.git"
   },
   "keywords": [
     "grunt",
@@ -27,7 +27,7 @@
   ],
   "license": "BSD",
   "dependencies": {
-    "conventional-changelog": "git+ssh://git@github.com/widgetworks/conventional-changelog.git#v0.0.11-wiwo.1"
+    "@wiwo/conventional-changelog": "^v0.0.11-wiwo.1"
   },
   "devDependencies": {
     "grunt": "~0.4.1",

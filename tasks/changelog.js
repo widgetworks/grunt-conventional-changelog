@@ -1,4 +1,4 @@
-var changelog = require('conventional-changelog');
+var changelog = require('@wiwo/conventional-changelog');
 var exec = require('child_process').exec;
 
 module.exports = function (grunt) {
